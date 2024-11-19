@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+ABC8 🏅 Nhà Cái Game Cá Cược Đẳng Cấp Bậc Nhất 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ABC8 <https://144.126.203.188/>`_ tự hào là sân chơi giải trí đẳng cấp hàng đầu châu Á, nơi hội tụ kho game độc đáo và hấp dẫn nhất. Với hàng nghìn thể loại cá cược, ABC8 mang đến không chỉ niềm vui mà còn cơ hội kiếm thêm thu nhập từ những lần thắng cược và các ưu đãi siêu hấp dẫn. Đừng bỏ lỡ cơ hội tham gia sân chơi đỉnh cao này – truy cập ngay để nhận code 88k!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://144.126.203.188/
 
-.. note::
+Địa chỉ: 103 P. Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội, Việt Nam
 
-   This project is under active development.
+Email: info@abc8.fit.
 
-Contents
---------
+Phone: 0998801102
 
-.. toctree::
-
-   usage
-   api
+#abc8, #nha_cai_abc8, #abc8_casino, #ca_cuoc_abc8 
